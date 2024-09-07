@@ -37,7 +37,7 @@ function App() {
               apiKey={apiKey}
               key="general"
               pageSize={pageSize}
-              country="in"
+              country="us"
               category="general"
             />
           }
